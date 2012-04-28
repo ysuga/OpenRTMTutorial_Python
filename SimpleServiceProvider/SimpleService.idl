@@ -1,0 +1,15 @@
+/**
+ * Filename = SimpleService.idl
+ * author: ysuga
+ **/
+
+
+module ysuga {
+
+	interface SimpleService {
+	  long read  (out long data);
+	  long write (in  long data);
+	  long reset ();
+	};
+
+};

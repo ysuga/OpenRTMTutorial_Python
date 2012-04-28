@@ -1,0 +1,1 @@
+C:\Python26\omniidl.exe -bpython SimpleService.idl 
